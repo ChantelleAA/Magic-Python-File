@@ -9,3 +9,5 @@ def Average(n):
     ave+=t
   return ave/n
         
+def Product(a,b):
+  return a*b
